@@ -1,5 +1,2 @@
 # Movie Scout
-A movie search application.
-
-## API Key
-42de672a
+A movie search application. Using the Open Movie Database API
